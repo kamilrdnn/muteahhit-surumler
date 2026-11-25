@@ -1,0 +1,11 @@
+{
+  "contentVersion": 5,
+  "notes": "Oyun hızlandı: 1 gün = 20 saniye, projeler ~10 dakikada hazır.",
+  "files": [
+    "index.html",
+    "style.css",
+    "data.js",
+    "engine.js",
+    "ui.js"
+  ]
+}
